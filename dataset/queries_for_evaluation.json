@@ -1,0 +1,296 @@
+[
+    {
+        "Query": "Where is Geranium located?",
+        "Video_ID": 49,
+        "Retrieved": 49,
+        "Ground Truth": "Geranium is located in a football stadium Copenhagen, Denmark",
+        "Generated Response": "Geranium is located in Copenhagen, specifically inside a football stadium, Parken Stadium."
+    },
+    {
+        "Query": "Who is the head chef of Geranium?",
+        "Video_ID": 49,
+        "Retrieved": 49,
+        "Ground Truth": "The head chef of Geranium is Rasmus Kofoed",
+        "Generated Response": "The head chef of Geranium is Rasmus Kofoed, who is known for winning the Bocuse d'Or."
+    },
+    {
+        "Query": "What is a heartbeat request? ",
+        "Video_ID": 44,
+        "Retrieved": 44,
+        "Ground Truth": "A Heartbeat Request is a unique message used to maintain an active session by periodically checking connectivity. It also confirms whether the recipient system is still responsive.",
+        "Generated Response": "A heartbeat request is a special message sent to keep a TLS session active."
+    },
+    {
+        "Query": "What does Shaun use the sausages for?",
+        "Video_ID": 27,
+        "Retrieved": 27,
+        "Ground Truth": "Shaun uses the sausages to make a rope which they use for jump rope. ",
+        "Generated Response": "Shaun and the flock use the sausages from the farmer's cooler to make a rope, which they then use to jump rope."
+    },
+    {
+        "Query": "To test their experiment, by how much did the scientists reduce the distance between Mercury and Sun?",
+        "Video_ID": 2,
+        "Retrieved": 2,
+        "Ground Truth": "To test their experiment, the scientists reduce the distance between Mercury and Sun by ine millimeter in one of their simulations",
+        "Generated Response": "The scientists reduced the distance between Mercury and the Sun by less than a millimeter from one simulation to the next."
+    },
+    {
+        "Query": "How does caffiene affect exercising?",
+        "Video_ID": 15,
+        "Retrieved": 15,
+        "Ground Truth": "Caffeine enhances the performance of exercise by enhancing endurance, movement velocity, and reaction time. Caffeine suppresses the receptors of adenosine, reducing fatigue and promoting alertness. Caffeine also strengthens heart contractions, enhancing circulation of blood into the muscles. It enhances endurance and high-intensity exercises like weightlifting and games requiring swift reflexes. In large quantities, it causes jitters and addiction and therefore should be consumed in moderate amounts.",
+        "Generated Response": "Caffeine improves exercise capacity at prolonged submaximal exercise (lasting longer than 90 minutes, like long runs or bike rides) and at mid-range or slightly higher intensity exercises (lasting 20-60 minutes)."
+    },
+    {
+        "Query": "What are the three barriers preventing effective communication",
+        "Video_ID": 16,
+        "Retrieved": 16,
+        "Ground Truth": "The three big barriers preventing effective  communication are identity, appreciation and affiliation. ",
+        "Generated Response": "The three barriers to effective conversations are identity, appreciation, and affiliation."
+    },
+    {
+        "Query": "Who won the badminton match between Viktor Axelsen and Loh Kean Yew",
+        "Video_ID": 11,
+        "Retrieved": 11,
+        "Ground Truth": "Viktor Axelsen won the match with a score of 21-18",
+        "Generated Response": " Viktor Axelsen won the badminton match against Loh Kean Yew."
+    },
+    {
+        "Query": "How to make flavoured egg for ramen?",
+        "Video_ID": 6,
+        "Retrieved": 6,
+        "Ground Truth": "To make flavoured egg or ajitama, put an egg into boiling water for six to seven minutes. Next cool it it down using an ice bath and peel the egg. get a pan on the stove and add one tablespoon of soysauce, one tablespoon of sake add one teaspoon of sugar. Mix them over low heat. When bubbles start to form, add the boiled egg to this mixture and continuously stir it. Remove the egg after its coated with the mixture properly.",
+        "Generated Response": "To make a quick ajitama (flavored egg) for ramen, boil an egg and then marinate it. For the tare, combine one tablespoon of soy sauce, one tablespoon of sake, and a teaspoon of sugar in a small pan. Mix over low heat."
+    },
+    {
+        "Query": "What is the plot of the movie Dont look away?",
+        "Video_ID": 4,
+        "Retrieved": 4,
+        "Ground Truth": "While she is making up waiting for the return of the parents to home, a girl named Savannah looks at a strange suited-man with a chained mask over his head, staring her at in the distance. Receiving a call from her father, he alerts Savannah, \"don't look away\" whatever happens, and that he will be home, ASAP. Looking the figure, Savannah's brother Jim appears in the room, looking at the strange man too. Hoping that meanwhile one of them can look at him that nothing bad can happen, Savannah leaves the bedroom to close all doors and windows around the house, returning to the room with Jim. But then Savannah discovers that meanwhile Jim still looking the man, she can't see it.",
+        "Generated Response": "Savannah sees a creepy man in a dirty suit with a bag over his head staring at her from outside the window. Her dad tells her not to look away, because when you look away, it gets closer. Jim also sees the man, and Savannah tapes the man's eyes shut. The dad arrives and explains that because Jim looked at the man, it made another one. The dad then reveals that their mom is here, and the man in the suit is standing behind them. He grabs a mirror and looks at the man in the mirror, and the mirror breaks."
+    },
+    {
+        "Query": "What is the secret to make perfect souffle pancakes?",
+        "Video_ID": 19,
+        "Retrieved": 19,
+        "Ground Truth": "The secret to make perfect souffle pancakes is to whip the meringue just right and to cook the pancake on low heat.",
+        "Generated Response": "From the Video_ID's experience, the secret to fluffy pancakes is whipping the meringue just right and cooking on low heat."
+    },
+    {
+        "Query": "What are the improvements done in Macbook Air M3?",
+        "Video_ID": 9,
+        "Retrieved": 9,
+        "Ground Truth": "It offers improved graphics over M2, dual external display support and improved base storage.",
+        "Generated Response": "The MacBook Air M3 features a new anodization for fingerprint resistance, though its effectiveness is limited. The M3 chip offers a 10-20% performance improvement over the M2, particularly in graphics, and introduces ray tracing. It also supports dual external displays with the lid closed. The base storage speed has been improved compared to the M2, which had a slower single SSD module."
+    },
+    {
+        "Query": "What is the most common cause of injury while doing deadlifts?",
+        "Video_ID": 13,
+        "Retrieved": 13,
+        "Ground Truth": "The majority of lower back injuries caused by the deadlift are the result of improper execution. Shoulders should not be behind the person's heels and back should not be rounded or arched.",
+        "Generated Response": "Deadlifting with misaligned hips and ribs is the most common reason for back injury. They should remain stacked like a pillar throughout the lift."
+    },
+    {
+        "Query": "What is the secret ingredient to make cupcakes glow in the dark? ",
+        "Video_ID": 52,
+        "Retrieved": 52,
+        "Ground Truth": "The secret ingredient to make glow in the dark cupcakes is tonic water. ",
+        "Generated Response": "The secret ingredient that makes the buttercream glow in the dark is tonic water. When placed under a black light, tonic water glows, making the buttercream glow as well."
+    },
+    {
+        "Query": "What is known as the World Cup of Cooking?",
+        "Video_ID": 49,
+        "Retrieved": 49,
+        "Ground Truth": "Bocuse d'Or is called the World Cup of cooking.",
+        "Generated Response": "The Bocuse d'Or is known as the World Cup of cooking."
+    },
+    {
+        "Query": "How does Noor power plant going to generate electricity?",
+        "Video_ID": 50,
+        "Retrieved": 50,
+        "Ground Truth": "Noor power plant is a concentrated solar power plant. Its designed to reflect light onto a receiver, which converts that energy to heat and then electricity.",
+        "Generated Response": "Morocco's Noor power plant is a concentrated solar power plant. It reflects light onto a receiver, which converts that energy to heat and then into electricity."
+    },
+    {
+        "Query": "Which Glycolic acid is the best to use on face?",
+        "Video_ID": 46,
+        "Retrieved": 46,
+        "Ground Truth": "Best Glycolic acid for face is the one from Minimalist. Its because of the source of Glycolic Acid in it which very high quality ",
+        "Generated Response": " If you only want to apply glycolic acid on your face, the Minimalist one is recommended because the source of ingredients is high in quality."
+    },
+    {
+        "Query": "What are the causes of Biotin deficiency?",
+        "Video_ID": 48,
+        "Retrieved": 48,
+        "Ground Truth": "Some of the causes of biotin deficiency include poor dietary intake, alcoholism, consumption of raw egg whites, parenteral nutrition, malnutrition, decreased bacterial synthesis, inflammatory bowel disease, broad-spectrum antibiotics, decreased absorption, GI surgery, medications like anticonvulsants, increased catabolism, smoking, and genetics, specifically biotinidase deficiency",
+        "Generated Response": " Biotin deficiency can be caused by poor dietary intake, alcoholism, consumption of raw egg whites, parenteral nutrition, and malnutrition. Decreased bacterial synthesis due to inflammatory bowel disease or broad-spectrum antibiotics can also lead to biotin deficiency. Furthermore, decreased absorption resulting from inflammatory bowel disease, GI surgery, or alcoholism can be a cause. Medications like anticonvulsants, increased catabolism (possibly influenced by anticonvulsants or smoking), and genetics, specifically biotinidase deficiency, are additional causes."
+    },
+    {
+        "Query": "Whose birthday does Mr Bean celebrate?",
+        "Video_ID": 45,
+        "Retrieved": 45,
+        "Ground Truth": "Mr Bean is celebrating his teddy's birthday",
+        "Generated Response": "Mr. Bean celebrates Teddy's birthday."
+    },
+    {
+        "Query": "How to load an image in HTML?",
+        "Video_ID": 43,
+        "Retrieved": 43,
+        "Ground Truth": "To load an image in HTML, we need to use the \"image\" tag. The image tag requires a source attribute which should point to the URL of your desired image. ",
+        "Generated Response": "To load an image, you use an image tag, and this tag requires a source attribute. The source attribute should contain the URL of the image you want to display."
+    },
+    {
+        "Query": "What happens in the S phase of mitosis?",
+        "Video_ID": 34,
+        "Retrieved": 34,
+        "Ground Truth": "S phase also called synthesis phase helps in the replication of DNA so that each daughter cell receives identical copies of the genetic material",
+        "Generated Response": "During the S phase, DNA is replicated so that each daughter cell receives identical copies of the genetic material. For each chromosome from G1, an identical copy is created with the help of structural proteins, enzymes, and energy."
+    },
+    {
+        "Query": "Which phase of cell cycle is the longest?",
+        "Video_ID": 34,
+        "Retrieved": 34,
+        "Ground Truth": "The longest phase of cell cycle is the interphase stage",
+        "Generated Response": " Interphase is the longest part of the cell cycle."
+    },
+    {
+        "Query": "What was the reaction of Emmanuel Macron towards the Russia Ukraine war?",
+        "Video_ID": 39,
+        "Retrieved": 39,
+        "Ground Truth": "Emmanuel Macron, the French President speaks in favour of Ukraine and affirms that it was right of France as well as other countries like United States, European countries, Canada and Japan to support Ukraine and impose sanctions on Rusia ",
+        "Generated Response": " Emmanuel Macron emphasized that Russia is the aggressor in the Russia-Ukraine war and Ukraine is the nation under attack. He stated that supporting Ukraine and imposing sanctions on Russia was the right course of action three years ago, and it's imperative to continue doing so, including support from the United States, Europeans, Canadians, Japanese, and others."
+    },
+    {
+        "Query": "How can I remove the seams from a pair of jeans to turn them into a skirt?",
+        "Video_ID": 14,
+        "Retrieved": 14,
+        "Ground Truth": "You can remove the seams from the jeans using a pair of scissors or seam rippers.",
+        "Generated Response": "Use a seam ripper or scissors to remove the inside leg seams, the front crotch below the fly, and the back crotch up to the waist."
+    },
+    {
+        "Query": "Why does Cooper believe that humanity must leave Earth instead of trying to save it?",
+        "Video_ID": 20,
+        "Retrieved": 20,
+        "Ground Truth": "The earth was slowly becoming inhabitable due to the blight. Even if the current generation survived, for humanity to be preserved, it must look somewhere else to rehabilitate.",
+        "Generated Response": "Cooper believes that nothing in our solar system can help humanity, so instead of trying to save the world, they are meant to leave it."
+    },
+    {
+        "Query": "What are the ingredients needed to prepare broth for a quick shoyu ramen?",
+        "Video_ID": 6,
+        "Retrieved": 6,
+        "Ground Truth": "To make a quick shoyu ramen we need Chicken stock powder. lard, soysauce, green onions, ginger and noodles. ",
+        "Generated Response": "To make the ramen broth, you need one tablespoon of soy sauce (preferably Japanese), one teaspoon of Chinese or Japanese chicken stock powder, green onions, ginger, and lard. Additionally, you'll need 300 milliliters (about a cup and a quarter) of hot water."
+    },
+    {
+        "Query": "How can I minimize injuries while deadlifting?",
+        "Video_ID": 13,
+        "Retrieved": 13,
+        "Ground Truth": "To minimize back injuries, one should be careful of their form. Shoulders should not be behind their heels and back should not be arched or rounded.",
+        "Generated Response": " Proper deadlift form is crucial to minimize the risk of injury.Correct bone alignment is essential before bending to grab the bar; misaligned hips and ribs are a common cause of back injuries, so they should be stacked like a pillar. Avoid rounding the back and shoulders when grabbing the bar to maintain tightness.The bar must be directly over the midfoot with the shins almost touching it to avoid lower back strain.Maintain proper hip height, somewhere above the knees but below the shoulders, to avoid using too much of the lower back or turning the deadlift into a squat.Keep a neutral spine, including the neck, by drawing the head back and looking at a spot on the floor a few feet in front.Creating a wedge position will prevent lower back compromise during the lift. Avoid injuring your back at the top of the lift by ensuring your shoulders are not behind your heels and your lower back is not arched.Prevent overextension at the top by bracing as if you're about to be punched and squeezing your glutes."
+    },
+    {
+        "Query": "What experiment did researchers conduct to test the stability of the solar system?",
+        "Video_ID": 2,
+        "Retrieved": 2,
+        "Ground Truth": "Researchers ran over 2000 munerical simulations to determine where every planet would be 5 billion years in the future with the same exact condition except one difference.",
+        "Generated Response": "In 2009, researchers conducted an experiment where they used existing data about our solar system to calculate the future positions of planets over 5 billion years. They ran over 2,000 numerical simulations, each with slightly different initial conditions, specifically modifying the distance between Mercury and the Sun by less than a millimeter between simulations. The results showed that in about 1% of the simulations, Mercury's orbit drastically changed, potentially causing it to collide with the Sun or Venus."
+    },
+    {
+        "Query": "How does a compiler and interpreter handle error?",
+        "Video_ID": 35,
+        "Retrieved": 35,
+        "Ground Truth": "Interpreter stops execution at the point it encounters an error but output of its previously executed instruction is still available. In complier, program is not executed at all if there is an error.",
+        "Generated Response": "An interpreter stops execution at the point where an error occurs, but it generates the output of previous instructions. A compiler, however, will not execute the program at all if there is an error, and no output will be generated."
+    },
+    {
+        "Query": "What is the soil preparation method for growing pumpkins?",
+        "Video_ID": 30,
+        "Retrieved": 30,
+        "Ground Truth": "For growing pumpkins, soil needs to be prepared three to six months in advance using chook manure and hay",
+        "Generated Response": "The soil is prepared three to six months in advance using chook manure and hay from a chook yard, resulting in fabulous soil by planting time in mid to late spring."
+    },
+    {
+        "Query": "What are some limitations of solar panels?",
+        "Video_ID": 50,
+        "Retrieved": 50,
+        "Ground Truth": "Solar panels can interact with only certain wavelengths of light, making it impossible to convert over half the sunlight they reveive into solar energy. Also light particles can bounce off them without knocking off the electron",
+        "Generated Response": "Solar panels can only interact with certain wavelengths of light, making it impossible to convert over half the sunlight they receive. Even light particles they can convert often bounce off them without ever hitting an electron. Light that solar cells don't convert or reflect is absorbed as heat, which reduces a panel's efficiency. Solar panels in the desert absorb far more heat than the natural sandy environment, which could create massive changes in the region's climate if scaled up to cover the Sahara. Constructing solar farms disrupts local ecosystems, and a large-scale plant could dramatically transform the desert landscape. Current energy storage techniques are still too expensive and inefficient, and industrial renewables can share problems with fossil fuels, such as destructive mining operations and carbon-emitting global supply chains."
+    },
+    {
+        "Query": "What happens in a deuce in tennis?",
+        "Video_ID": 36,
+        "Retrieved": 36,
+        "Ground Truth": "When game reaches deuce in tennis, that is the score is 40-40, the players need to win two straight points to win the game.",
+        "Generated Response": "When the score reaches 40-40, it's called a deuce, and a player must win two straight points to win the game."
+    },
+    {
+        "Query": "How to make marinade for butter chicken?",
+        "Video_ID": 37,
+        "Retrieved": 37,
+        "Ground Truth": "To make marinade for butter chicken, either chicken thigh or  chicken breast is needed. Along with it spices like turmeric, chili powder, cumin, coriander and garam masala is needed. Along with it a little bit of lemon juice, yogurt and some salt and ginger garlic paste. Next cut the chicken into strips and to a bowl add all the spices and chicken. Then add the lemon juice and yogurt. Along with it add the ginger garlic paste and salt. Next mix it thoroughly. Cover the bowl with plastic wrap and refrigerate it overnight or atleast for three hours",
+        "Generated Response": "The marinade for the butter chicken requires chicken thighs or chicken breast, turmeric, chili powder, cumin, coriander, garam masala, lemon juice, and salt. A garlic ginger paste will also be needed for the marinade. Cut the chicken into strips and add all the spices for your marinade to a bowl. Add lemon juice to the bowl. Mix the ingredients together. Cover the bowl and refrigerate for a minimum of three hours, or preferably overnight. Add salt, garlic, and ginger paste to the bowl. Mix again and return to the fridge."
+    },
+    {
+        "Query": "What are the basic steps in a skincare routine?",
+        "Video_ID": 7,
+        "Retrieved": 7,
+        "Ground Truth": "The basic steps in a skincare routine are to cleanse the face to remoce all the dirt and oil. Next step is to moisturize the skin atleast twice a day. The last step is to use a sunscreen",
+        "Generated Response": "The first step is cleansing your face to remove dirt and oil, helping to unclog pores and prevent breakouts. Experts recommend washing your face twice a day with lukewarm water, followed by a cold water rinse.The next step is to hydrate your skin using a moisturizer twice a day.The third step is to use sunscreen to protect against UV light, which can cause wrinkles, dark spots, DNA mutation, and skin cancer."
+    },
+    {
+        "Query": "What are atoms made up of?",
+        "Video_ID": 38,
+        "Retrieved": 38,
+        "Ground Truth": "Atoms are consists of three elementary particles: the proton, the neutron and the electron",
+        "Generated Response": "Atoms consist of three elementary particles: neutrons, protons, and electrons. Protons and neutrons bind together to form the atom's core, held together by the strong interaction. Neutrons and protons are made from quarks held together by gluons. Electrons orbit the atom's core. Quarks and electrons are suspected to be the most fundamental components of matter in the universe."
+    },
+    {
+        "Query": "How to drape saree?",
+        "Video_ID": 21,
+        "Retrieved": 21,
+        "Ground Truth": "Start by tucking your saree in your skirt around your waist. Then make pleats. Take the rest of the saree and put it on your left shoulder and smoothen everything out.",
+        "Generated Response": "She starts by tucking the saree into her skirt from the right side, moving towards the back. She wraps the saree around her waist, adjusting the fabric. Then, she makes pleats in the saree and secures them. Next, she drapes the remaining fabric over her left shoulder to create the pallu and adjusts it, pinning it to her blouse. Finally, she adjusts the front portion of the saree and makes final adjustments to ensure a comfortable fit."
+    },
+    {
+        "Query": "How to identify art rare pokemon cards?",
+        "Video_ID": 32,
+        "Retrieved": 32,
+        "Ground Truth": "ART rare pokemon cards have their illustration going from the top of the card to the bottom. They are denoted by AR rarity symbol in the card",
+        "Generated Response": "Art rare Pokémon, known as illustration rares in the international version, have a gold star rarity symbol. The Japanese TCG uses the letters AR as a rarity symbol."
+    },
+    {
+        "Query": "How does compiler work?",
+        "Video_ID": 35,
+        "Retrieved": 35,
+        "Ground Truth": "A compiler takes the entire program and converts it into machine language. The converted code is given to the system for further execution.",
+        "Generated Response": "A compiler is a mechanism that converts high-level language into machine language.A compiler takes all the code in one go, converts it to machine language, and after conversion, gives the code to the system for execution, and the user can see the output in one go. If there is an error in the code, the compiler will not execute the program, and no output will be generated."
+    },
+    {
+        "Query": "How can I make a pool ball candle holder?",
+        "Video_ID": 10,
+        "Retrieved": 10,
+        "Ground Truth": "To make a pool ball candle holder, form a ball with aluminium foil. Next put clay around it. After covering everything put a candle and then add more clay to hold the candle. Smooth everything out and then let it dry. After drying paint it in pool ball design. ",
+        "Generated Response": "Form a ball with aluminum foil, cover it with clay, place a candle on top, add more clay to hold the candle, smooth everything out, draw a pool ball design, and paint it black."
+    },
+    {
+        "Query": "What is the role of aqueous humor in maintaining eye health?",
+        "Video_ID": 30,
+        "Retrieved": 30,
+        "Ground Truth": "Aqueous humor helos in providing structural support to the eye and helps to keep the shape of eye",
+        "Generated Response": "The aqueous humor, a transparent watery fluid, is secreted by the ciliary epithelium. It provides nutrients to the lens and cornea, structural support, and helps maintain the shape of the eye."
+    },
+    {
+        "Query": "When does a solar system become unstable?",
+        "Video_ID": 2,
+        "Retrieved": 2,
+        "Ground Truth": "Solar system can become unstable in scenarios where the orbit of mercury can change so drastically that it can plunge into sun and collide with venus.",
+        "Generated Response": "A solar system can become unstable when, in simulations, a planet's orbit changes drastically, potentially causing it to plunge into the Sun or collide with another planet, destabilizing the entire inner solar system."
+    },
+    {
+        "Query": "What skin protection is needed to prevent acne?",
+        "Video_ID": 7,
+        "Retrieved": 7,
+        "Ground Truth": "Start by cleansing your face to remove all dirt and oil. Wash your face twice daily and keep your skin moisturized. Also use sunscreen to protect your skin from UV rays.",
+        "Generated Response": "For skin prone to acne, consider using ingredients like benzoyl peroxide, salicylic acid, glycolic acid, and vitamin A.These ingredients work to unclog pores, prevent breakouts, and dissolve blackheads over time. For acne, avoid scrubbing your face or using harsh products. Instead, use gentle creamy cleansers to reduce inflammation. Also, avoid touching your face or washing your face too often, and don't pop pimples."
+    }
+]
